@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Felipe",
+      "empresa": "Horny",
+      "email": "asdasd@dasdasd.com",
+      "telefono": "2133123123",
+      "notas": "dfasdfasdds",
+      "id": 1
+    },
+    {
+      "nombre": "Pasta",
+      "empresa": "Base",
+      "email": "pastabase@gmail.com",
+      "telefono": "123232123",
+      "notas": "Pastita rica",
+      "id": 2
+    },
+    {
+      "nombre": "Pasta 2",
+      "empresa": "Base 2",
+      "email": "pastabase2@gmail.com",
+      "telefono": "123232123",
+      "notas": "Pastita rica 2",
+      "id": 3
+    },
+    {
+      "nombre": "Marias",
+      "empresa": "Juanas",
+      "email": "marijuana@weed.com",
+      "telefono": "12312323",
+      "notas": "Marimba",
+      "id": 4
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Juanito Perez",
+      "email": "jperez@jp.com",
+      "telefono": "112312323",
+      "notas": "Solicito un vpn",
+      "id": 5
+    }
+  ]
+}
